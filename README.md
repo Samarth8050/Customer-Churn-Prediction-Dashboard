@@ -102,15 +102,6 @@ The main goal of this project is to:
 
 ---
 
-# 📷 Dashboard Preview
-
-```md
-<img width="940" height="522" alt="DASHBOARD" src="https://github.com/Samarth8050/Customer-Churn-Prediction-Dashboard/blob/main/Dashboard.png" />
-
-```
-
----
-
 # 🔥 Future Improvements
 
 - Machine Learning churn prediction integration
