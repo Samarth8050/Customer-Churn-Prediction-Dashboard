@@ -107,7 +107,7 @@ The main goal of this project is to:
 Add your dashboard screenshot here:
 
 ```md
-<img width="904" height="502" alt="Dashboard" src="https://github.com/user-attachments/assets/3fa8564b-ce7f-407b-84c9-5fa02779e0bd" />
+<https://github.com/Samarth8050/Customer-Churn-Prediction-Dashboard/blob/main/Dashboard.png>
 
 ```
 
