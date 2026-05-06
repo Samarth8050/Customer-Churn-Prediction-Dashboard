@@ -104,10 +104,8 @@ The main goal of this project is to:
 
 # 📷 Dashboard Preview
 
-Add your dashboard screenshot here:
-
 ```md
-<https://github.com/Samarth8050/Customer-Churn-Prediction-Dashboard/blob/main/Dashboard.png>
+<img width="904" height="502" alt="Dashboard" src="https://github.com/user-attachments/assets/641d5472-8ea1-4cc5-b077-5980176ed452" />
 
 ```
 
